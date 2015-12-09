@@ -20,7 +20,7 @@ Compile instructions
 The user needs python 2.7 and scipy and numpy. No compiling is needed.
 
 Operating instructions 
-The user needs t run the program and input the values they want.
+The user needs to run the program and input the values they want.
 
 List/description of novel/significant design decisions
 The code is laid out in the same way that it would run. The initiualization is in the top, the program is in the middle, and the calculations and output is in the bottom.
@@ -34,7 +34,7 @@ List/description of any extra features/algorithms/functionality
 We output a graph and we output extra data that the user might not need. 
 Also the user can change the variables so they can run different tests.
 
-List/description of any known deficiencies or bugs
+List/description of any known deficiencies or bugs 
 no known bugs are found at this time.
 
 Lessons Learned 
