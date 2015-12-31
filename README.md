@@ -1,8 +1,4 @@
-# CS_558_Assignment_2
-Assignment #2 Using Python
 Haval Ahmed and Ryan Stevens
-815013661,      810318529
-CS 558 Fall 2015
 
 Assignment 2: Aquarium simulation ( aka prey and predator simulation):
 
